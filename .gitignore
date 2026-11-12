@@ -1,0 +1,11 @@
+.DS_Store
+.idea/
+__pycache__/
+*.pyc
+runs/
+datasets/
+*.pt
+*.jpg
+*.mp4
+!results/**/*.jpg
+!results/**/*.png

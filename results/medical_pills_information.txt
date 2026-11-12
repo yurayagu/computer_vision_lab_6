@@ -1,0 +1,3 @@
+Medical Pills Detection Dataset
+Training images: 92
+Classes: 1 (0: pill)
